@@ -1,2 +1,3 @@
-# css-gallery
-Pure CSS lightbox gallery
+# Pure CSS lightbox gallery
+
+Create a lightbox gallery without javascript.
