@@ -19,5 +19,5 @@ For every image you need to add an anchor in front of all images:
 
 Link to the corresponding stylesheet by declaring the number of images:
 ```
-<link rel="stylesheet" type="text/css" href="" />
+<link rel="stylesheet" type="text/css" href="galerie.css.php?n=NUMBER_OF_IMAGES" />
 ```
