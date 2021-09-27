@@ -5,7 +5,7 @@ Create a lightbox gallery without javascript.
 ## Usage
 Create an image gallery enclosing your image in an `a` tag:
 
-```
+```html
 <a class=".cssg-item" href="#img1" title="your caption">
    <img class="cssg" src="picture1.jpg" alt="your caption" />
    <div class="cssg-caption"><span> your caption</span></div>
